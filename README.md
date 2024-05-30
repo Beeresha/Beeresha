@@ -7,11 +7,8 @@ This folder contains genotype and phenotype data for maize and wheat. Below is t
    - Number of Markers (SNPs): Over 800,000
    - Number of Phenotypic Traits: More than 40
 
-2. Maize Genotype Data (CIMMYT Seeds of Discovery)
-   - Number of Lines: Thousands
-   - Number of Markers (SNPs): Over 1 million per sample
 
-3. Wheat Genotype and Phenotype Data (CIMMYT)
+2. Wheat Genotype and Phenotype Data (CIMMYT)
    - Number of Lines: Various datasets with hundreds to thousands
    - Number of Markers (SNPs): Around 100,000 to 200,000
    - Number of Phenotypic Traits: Multiple traits including drought tolerance, yield, disease resistance
