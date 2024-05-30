@@ -1,16 +1,19 @@
-## Hi there 👋
+README
 
-<!--
-**Beeresha/Beeresha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This folder contains genotype and phenotype data for maize and wheat. Below is the detailed description of each dataset:
 
-Here are some ideas to get you started:
+1. Maize Genotype and Phenotype Data (G2F)
+   - Number of Lines: 3,000
+   - Number of Markers (SNPs): Over 800,000
+   - Number of Phenotypic Traits: More than 40
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Maize Genotype Data (CIMMYT Seeds of Discovery)
+   - Number of Lines: Thousands
+   - Number of Markers (SNPs): Over 1 million per sample
+
+3. Wheat Genotype and Phenotype Data (CIMMYT)
+   - Number of Lines: Various datasets with hundreds to thousands
+   - Number of Markers (SNPs): Around 100,000 to 200,000
+   - Number of Phenotypic Traits: Multiple traits including drought tolerance, yield, disease resistance
+
+
